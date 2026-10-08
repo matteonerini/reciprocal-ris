@@ -8,7 +8,7 @@ This repository contains a [Lean 4](https://lean-lang.org) formalization of resu
 
 ### Online
 
-The Lean file `ReciprocalRIS.lean` is self-contained, as it only imports Mathlib. Therefore, it can be read, checked, and modified in the browser with [Lean 4 Web](https://live.lean-lang.org), without any installation, by following these links:
+The Lean file `ReciprocalRIS.lean` is self-contained, as it only imports Mathlib. Therefore, it can be read, checked, and modified in the browser with [Lean 4 Web](https://live.lean-lang.org), without any installation, by following this link:
 
 - [Open `ReciprocalRIS.lean` in Lean 4 Web](https://live.lean-lang.org/#url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatteonerini%2Freciprocal-ris%2Fmain%2FReciprocalRIS.lean)
 
