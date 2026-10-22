@@ -19,7 +19,7 @@ Lean 4 Web uses a recent version of Mathlib, which may differ from the one used 
 ### Local installation
 
 1. Install VS Code and the Lean 4 extension, following the [official instructions](https://lean-lang.org/install/).
-2. In VS Code, open the command palette (`Ctrl+Shift+P`, or `Cmd+Shift+P` on macOS) and run `Lean 4: Open Project: Download Project`. Alternatively, open a Lean file, click on the ∀ symbol in the top-right corner of the editor, and select `Open Project…` → `Download Project…`.
+2. In VS Code, open the command palette (`Ctrl+Shift+P`, or `Cmd+Shift+P` on macOS) and run `Lean 4: Project: Download Project…`. Alternatively, open a Lean file, click on the ∀ symbol in the top-right corner of the editor, and select `Open Project…` → `Download Project…`.
 3. Enter the URL of this repository:
    ```
    https://github.com/matteonerini/reciprocal-ris
@@ -29,8 +29,8 @@ Lean 4 Web uses a recent version of Mathlib, which may differ from the one used 
 
 ## Requirements
 
-- Lean `v4.35.0-rc2` (see [`lean-toolchain`](lean-toolchain))
-- Mathlib `v4.35.0-rc2` (see [`lakefile.toml`](lakefile.toml))
+- Lean `v4.36.0-rc1` (see [`lean-toolchain`](lean-toolchain))
+- Mathlib `v4.36.0-rc1` (see [`lakefile.toml`](lakefile.toml))
 
 ## Acknowledgment
 
