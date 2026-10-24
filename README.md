@@ -2,7 +2,7 @@
 
 This repository contains a [Lean 4](https://lean-lang.org) formalization of results in the paper
 
-> M. Nerini, J. Vidal Alegría, B. Clerckx, "[Can reciprocal RIS perform as non-reciprocal RIS?](https://arxiv.org/abs/)," arXiv:, 2026.
+> M. Nerini, J. Vidal Alegría, B. Clerckx, "[Can reciprocal RIS perform as non-reciprocal RIS?](https://arxiv.org/abs/2610.30896)," arXiv:2610.30896, 2026.
 
 ## Usage
 
